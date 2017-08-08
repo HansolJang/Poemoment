@@ -1,0 +1,52 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="dialog_animation_left">
+        <item name="android:windowEnterAnimation">@anim/dialog_slide_in</item>
+        <item name="android:windowExitAnimation">@anim/dialog_slide_out</item>
+    </style>
+
+    <style name="dialog_animation_zoom">
+        <item name="android:windowEnterAnimation">@anim/dialog_expand_in</item>
+        <item name="android:windowExitAnimation">@anim/dialog_contract_out</item>
+    </style>
+
+    <style name="dialog_animation_fade">
+        <item name="android:windowEnterAnimation">@anim/fade_in</item>
+        <item name="android:windowExitAnimation">@anim/fade_out</item>
+    </style>
+
+    <style name="dialog_animation_flip">
+        <item name="android:windowEnterAnimation">@anim/flip_horizontal_in</item>
+        <item name="android:windowExitAnimation">@anim/flip_horizontal_out</item>
+    </style>
+
+    <style name="dialog_animation_bottom">
+        <item name="android:windowEnterAnimation">@anim/slide_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/slide_bottom_out</item>
+    </style>
+
+    <style name="dialog_animation_top">
+        <item name="android:windowEnterAnimation">@anim/slide_in_top</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_top</item>
+    </style>
+
+    <style name="dialog_animation_bounce">
+        <item name="android:windowEnterAnimation">@anim/bounce</item>
+        <item name="android:windowExitAnimation">@anim/fade_out</item>
+    </style>
+
+    <style name="poment_scroll">
+        <item name="android:scrollbarSize">4dp</item>
+        <item name="android:scrollbarThumbVertical">@color/poment_black_20</item>
+        <item name="android:scrollbarTrackVertical">@color/poment_transparent</item>
+    </style>
+
+</resources>

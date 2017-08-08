@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">잠시</string>
+
+    <string name="toast_backpressed">"\'뒤로\' 버튼을 한번 더 누르시면 종료됩니다."</string>
+
+    <string name="above">상공</string>
+    <string name="under">수심</string>
+    <string name="water_surface">수면 위</string>
+    <string name="depth">%1$dm</string>
+</resources>

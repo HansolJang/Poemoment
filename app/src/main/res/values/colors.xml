@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 0.1 1a-->
+    <!-- 0.2 33-->
+    <!-- 0.3 4d-->
+    <!-- 0.5 80-->
+    <!-- 0.7 b4-->
+    <!-- 0.8 cc-->
+
+    <color name="poment_transparent">#00000000</color>
+    <color name="poment_white">#ffffff</color>
+    <color name="poment_white_50">#80ffffff</color>
+
+    <color name="poment_black">#191919</color>
+    <color name="poment_black_20">#33191919</color>
+    <color name="poment_black_50">#80191919</color>
+
+    <color name="poment_grey">#8c8c8c</color>
+    <color name="poment_grey_25">#3c8c8c8c</color>
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="poemoment_sha1">80:0F:1F:D6:19:63:80:37:1A:E3:9D:37:20:EE:C2:43:F7:6E:E6:25</string>
+
+    <string name="server_url">http://127.0.0.1:8000/</string>
+</resources>
